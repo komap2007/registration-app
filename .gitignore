@@ -1,0 +1,24 @@
+# Файлы и папки Visual Studio
+.vs/
+ipch/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки сборки (Debug/Release)
+x64/
+x86/
+ARM/
+Debug/
+Release/
+build/
+
+# Временные файлы
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
